@@ -1,0 +1,6 @@
+2025-07-10 10:15:32 INFO: User logged in
+2025-07-10 10:17:01 WARNING: Low disk space
+2025-07-10 10:18:20 ERROR: Python script failed to run
+2025-07-10 10:20:55 INFO: Backup completed
+2025-07-10 10:21:33 INFO: Started python process
+2025-07-10 10:23:00 INFO: System shutting down
